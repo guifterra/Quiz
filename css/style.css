@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 20, 20);
+}
+
+/*
+.show{
+    border: 1px solid red;
+}
+*/
+
+.construction{
+    margin: 0 auto;
+    width: 95Vw;
+    height: calc(95Vw / 2);
+    background-image: url("../imgs/UnderConstruction.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
